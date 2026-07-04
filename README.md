@@ -1,6 +1,6 @@
 **API Dashboard Project**
 
-This project is designed to simulate a dashboard that loads in data from a public weather API, as well as PostgreSQL database. 
+This project is designed to simulate a dashboard that loads in data from a public weather API, as well as a PostgreSQL database. 
 
 **Backend**
 
